@@ -2,4 +2,5 @@
 Hello world repository for Git tutorial by D K Swami
 This is my 3rd repository and by making this repository i aim to get decent knowledge of git and github.
 
-This repo is build by step by step using w3schools tutorials
+If you want to get started with git go to w3schools for simplest guide.
+https://www.w3schools.com/git/default.asp
